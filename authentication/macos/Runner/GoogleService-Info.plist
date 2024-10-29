@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB_VHhTCKea5e1yhYOvyFCDHUNt9Rii2QE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561116154961</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BUMGames.authentication</string>
+	<key>PROJECT_ID</key>
+	<string>authentication-e8752</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authentication-e8752.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561116154961:ios:8f5ee98ed55a50e7447c70</string>
+</dict>
+</plist>
